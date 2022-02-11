@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/terryateallberries/portfolio-demo.git/static/css/main.a659989c.css",
+    "main.js": "/terryateallberries/portfolio-demo.git/static/js/main.47977fd5.js",
+    "static/js/787.7d4caaf7.chunk.js": "/terryateallberries/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js",
+    "static/media/dev.png": "/terryateallberries/portfolio-demo.git/static/media/dev.5c5ce5aacf9fbbc784df.png",
+    "static/media/tick.png": "/terryateallberries/portfolio-demo.git/static/media/tick.0f088565abb39b6bc534.png",
+    "index.html": "/terryateallberries/portfolio-demo.git/index.html",
+    "main.a659989c.css.map": "/terryateallberries/portfolio-demo.git/static/css/main.a659989c.css.map",
+    "main.47977fd5.js.map": "/terryateallberries/portfolio-demo.git/static/js/main.47977fd5.js.map",
+    "787.7d4caaf7.chunk.js.map": "/terryateallberries/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659989c.css",
+    "static/js/main.47977fd5.js"
+  ]
+}
